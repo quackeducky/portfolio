@@ -16,7 +16,7 @@
     "react": "^18",
     "react-dom": "^18",
     "shadergradient": "^1.2.10",
-    "three": "^0.150.0"
+    "three": "0.150.0"
   },
   "devDependencies": {
     "eslint": "^8",

@@ -30,7 +30,7 @@ export default function Home() {
             GitHub
           </a>        
           
-          <a href = "https://linkedin.com/donald-la" target = "_blank"> 
+          <a href = "https://www.linkedin.com/in/donald-la" target = "_blank"> 
             LinkedIn
           </a>
 

@@ -18,7 +18,7 @@ export default function Home() {
     >
       <ShaderGradient
         control='query'
-        urlString='https://www.shadergradient.co/customize?animate=on&axesHelper=off&bgColor1=%23ea0000&bgColor2=%23ff0000&brightness=1&cAzimuthAngle=180&cDistance=3.4&cPolarAngle=90&cameraZoom=1&color1=%23756eff&color2=%2353c2db&color3=%230095e3&embedMode=off&envPreset=city&fov=60&gizmoHelper=hide&grain=on&lightType=3d&pixelDensity=3&positionX=-1.4&positionY=0&positionZ=0&reflection=0.5&rotationX=0&rotationY=10&rotationZ=50&shader=defaults&type=waterPlane&uAmplitude=0&uDensity=1.6&uFrequency=5.5&uSpeed=0.4&uStrength=2.5&uTime=0&wireframe=false'> </ShaderGradient>
+        urlString='https://www.shadergradient.co/customize?animate=on&axesHelper=off&bgColor1=%23ff08ea&bgColor2=%2300b83a&brightness=1.2&cAzimuthAngle=250&cDistance=1.5&cPolarAngle=140&cameraZoom=12.5&color1=%2300400d&color2=%23005252&color3=%2300ebeb&embedMode=off&envPreset=dawn&fov=45&gizmoHelper=hide&grain=on&lightType=env&pixelDensity=2.2&positionX=0&positionY=0&positionZ=0&range=enabled&rangeEnd=40&rangeStart=0&reflection=0.5&rotationX=0&rotationY=0&rotationZ=140&shader=defaults&type=sphere&uAmplitude=2.6&uDensity=0.7&uFrequency=5.5&uSpeed=0.8&uStrength=0.1&uTime=0&wireframe=false'> </ShaderGradient>
       </ShaderGradientCanvas>
       <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
           <div className ="flex justify-end gap-2 flex-wrap">

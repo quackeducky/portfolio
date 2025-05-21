@@ -22,8 +22,8 @@ export default function Home() {
       </ShaderGradientCanvas>
       <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
           <div className ="flex justify-end gap-2 flex-wrap">
-          <a href = "https://heffron.ai" target = "_blank">
-            Heffron.ai
+          <a href = "https://voqo.ai" target = "_blank">
+            Voqo.ai
           </a>
 
           <a href = "https://github.com/quackeducky" target = "_blank">
